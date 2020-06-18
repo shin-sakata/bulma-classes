@@ -3,7 +3,7 @@
     "name": "chemirea/bulma-classes",
     "summary": "All classes in Bulma CSS",
     "license": "MIT",
-    "version": "0.9.0",
+    "version": "1.0.0",
     "exposed-modules": [
         "Bulma"
     ],

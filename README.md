@@ -21,3 +21,7 @@ view =
             [ Html.text "column 2" ]
         ]
 ```
+
+# VERSION
+
+Version 1.0.0 of this package is the latest version of bulma css Compatible with verison 0.9.0
